@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Virginia Home Repair",
+    "phone": "+17574097372",
+    "category": "carpenter",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Craftsmanship You Can Trust.",
+      "heroSubline": "Virginia Home Repair delivers expert carpentry throughout Virginia Beach. We handle projects of all sizes with precision and care.",
+      "aboutTitle": "Built on Integrity, Crafted with Skill",
+      "aboutText": [
+        "Virginia Home Repair started with a simple idea: provide honest, reliable carpentry services to our neighbors in Virginia Beach. We're a local team, born and raised right here, dedicated to upholding the values of hard work and quality craftsmanship.",
+        "Our approach is straightforward: we listen to your needs, develop a clear plan, and execute the work with meticulous attention to detail. We believe in transparent communication and exceeding expectations on every project, big or small.",
+        "We're proud to be part of the Virginia Beach community. We actively support local initiatives and strive to build lasting relationships with our clients. When you choose Virginia Home Repair, you're choosing a team that cares about your home and the community we share."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience and a commitment to quality ensure exceptional results."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, communicate clearly, and deliver on our promises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Virginia Beach homes and the challenges they face."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises – just honest and upfront pricing."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Virginia Home Repair today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinets",
+        "name": "Custom Cabinets",
+        "shortDescription": "Maximize your space with beautifully crafted custom cabinets.",
+        "description": "Tired of cookie-cutter cabinets that don't fit your needs or style? Virginia Home Repair specializes in designing and building custom cabinets tailored to your exact specifications. Whether you're looking to revamp your kitchen, upgrade your bathroom, or create a functional storage solution for your home office, we can bring your vision to life. We work with a variety of high-quality materials, including hardwoods, softwoods, and laminates, to match your aesthetic and budget. \n\nOur process begins with a detailed consultation to understand your needs and preferences. We'll discuss your design ideas, take precise measurements of your space, and provide you with a detailed quote. Once you approve the design, our skilled carpenters will meticulously craft your cabinets in our local workshop. We then carefully install the cabinets in your home, ensuring a perfect fit and seamless integration with your existing décor. From classic to contemporary, we can create custom cabinets that enhance the beauty and functionality of your home for years to come.\n\nLiving near the ocean in Virginia Beach brings unique challenges. Salt air can corrode lesser materials, so we'll help you select resilient options that stand up to the coastal environment. Let us help you create beautiful and functional storage solutions.",
+        "process": [
+          "Step 1: Initial Consultation and Design",
+          "Step 2: Material Selection and Quote",
+          "Step 3: Cabinet Construction",
+          "Step 4: Professional Installation"
+        ],
+        "benefits": [
+          "Maximize space utilization",
+          "Enhance home aesthetics",
+          "Increase property value",
+          "Personalized design to fit your needs"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for custom cabinets?",
+            "answer": "We work with a wide range of materials, including hardwoods like maple and oak, softwoods like pine, and various laminates. We'll help you choose the best materials based on your budget, style, and durability requirements, considering the coastal environment of Virginia Beach."
+          },
+          {
+            "question": "How long does it take to build custom cabinets?",
+            "answer": "The timeline depends on the complexity of the design and the materials chosen. We'll provide you with a realistic estimate during the consultation phase, keeping you informed throughout the process."
+          },
+          {
+            "question": "Do you offer installation services?",
+            "answer": "Yes, we provide professional installation services to ensure your custom cabinets are perfectly fitted and securely installed. Our team takes pride in their attention to detail and commitment to quality."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair-and-installation",
+        "name": "Deck Repair & Installation",
+        "shortDescription": "Build or restore your outdoor living space with expert deck services.",
+        "description": "Virginia Home Repair offers comprehensive deck repair and installation services to enhance your outdoor living experience. We understand the unique challenges that Virginia Beach decks face, from salt air corrosion to hurricane-force winds. Whether you need minor repairs to your existing deck or a brand-new custom deck designed and built to your specifications, we have the expertise to get the job done right. \n\nWe work with a variety of decking materials, including pressure-treated wood, composite decking, and exotic hardwoods. We can help you choose the best material for your needs, considering factors such as durability, aesthetics, and budget. Our deck installation process is meticulous, ensuring proper drainage, structural integrity, and adherence to local building codes. We also offer deck repair services, including replacing damaged boards, reinforcing support structures, and repairing railings. \n\nGiven Virginia Beach's proximity to the ocean and the risk of coastal flooding, we pay special attention to proper deck elevation and drainage. We can also advise on materials that are resistant to salt air corrosion and insect infestation. From simple repairs to complete deck overhauls, we're committed to providing you with a safe, beautiful, and long-lasting outdoor space that you and your family can enjoy for years to come.",
+        "process": [
+          "Step 1: Site Assessment and Design Consultation",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Deck Construction or Repair",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Increase your home's value",
+          "Expand your outdoor living space",
+          "Enhance your home's curb appeal",
+          "Create a safe and enjoyable outdoor environment"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking materials do you recommend for Virginia Beach?",
+            "answer": "Given the coastal environment, we often recommend composite decking or pressure-treated wood. Composite decking is highly resistant to moisture, rot, and insect infestation. Pressure-treated wood is a more affordable option that can be treated to withstand the elements."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Virginia Beach?",
+            "answer": "Yes, in most cases, you will need a permit to build a new deck or make significant changes to an existing deck. We can assist you with the permitting process to ensure your project complies with local building codes."
+          },
+          {
+            "question": "How long will it take to build a new deck?",
+            "answer": "The timeline depends on the size and complexity of the deck. We'll provide you with a realistic estimate during the consultation phase. Factors that can affect the timeline include weather conditions and material availability."
+          }
+        ]
+      },
+      {
+        "slug": "framing-services",
+        "name": "Framing Services",
+        "shortDescription": "Ensure structural integrity with our expert framing services.",
+        "description": "Virginia Home Repair provides expert framing services for residential construction projects in Virginia Beach and surrounding areas. We understand that the framing is the backbone of any structure, and we take pride in our meticulous attention to detail and commitment to quality. Whether you're building a new home, adding an addition, or remodeling an existing space, we have the expertise to ensure your framing is structurally sound and built to last. \n\nOur team of experienced carpenters is proficient in all types of framing, including wood framing, steel framing, and timber framing. We use only the highest quality materials and adhere to strict building codes. We work closely with architects and engineers to ensure that your framing meets all structural requirements. We also understand the importance of proper insulation and ventilation, and we take steps to ensure that your framing is energy-efficient. \n\nGiven Virginia Beach's location in a hurricane-prone area, we pay special attention to wind resistance and structural integrity. We can advise on framing techniques and materials that will help your home withstand high winds and coastal storms. From initial layout to final inspection, we're committed to providing you with framing services that meet the highest standards of quality and safety.",
+        "process": [
+          "Step 1: Blueprint Review and Material Selection",
+          "Step 2: Layout and Foundation Preparation",
+          "Step 3: Framing Construction",
+          "Step 4: Inspection and Approval"
+        ],
+        "benefits": [
+          "Ensures structural integrity",
+          "Provides a solid foundation for your home",
+          "Increases property value",
+          "Meets all building code requirements"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood do you use for framing?",
+            "answer": "We primarily use pressure-treated lumber for framing, as it is resistant to rot, decay, and insect infestation. We also use engineered lumber for certain applications, such as headers and beams, to provide additional strength and stability."
+          },
+          {
+            "question": "How do you ensure that the framing is square and plumb?",
+            "answer": "We use a variety of tools and techniques to ensure that the framing is square and plumb, including laser levels, plumb bobs, and framing squares. We also carefully check our work at each stage of the process to ensure accuracy."
+          },
+          {
+            "question": "How long does it take to frame a house?",
+            "answer": "The timeline depends on the size and complexity of the house. We'll provide you with a realistic estimate during the consultation phase. Factors that can affect the timeline include weather conditions and material availability."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-and-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Upgrade your doors with our professional installation and repair services.",
+        "description": "Virginia Home Repair provides professional door installation and repair services to enhance the security, energy efficiency, and aesthetics of your home. We understand that your doors are more than just entryways; they're also an important part of your home's curb appeal and security. Whether you need a new front door installed, a damaged interior door repaired, or a sliding glass door replaced, we have the expertise to get the job done right. \n\nWe work with a variety of door types, including wood doors, fiberglass doors, steel doors, and sliding glass doors. We can help you choose the best door for your needs, considering factors such as security, energy efficiency, and aesthetics. Our door installation process is meticulous, ensuring proper alignment, weather sealing, and security. We also offer door repair services, including repairing damaged frames, replacing broken hardware, and fixing sticking doors. \n\nVirginia Beach's coastal climate can be hard on doors, causing them to warp, crack, or rust. We can advise on door materials and finishes that are resistant to salt air corrosion and moisture damage. We can also install storm doors to protect your entry doors from the elements. From simple repairs to complete door replacements, we're committed to providing you with doors that are both beautiful and functional.",
+        "process": [
+          "Step 1: Door Selection and Measurement",
+          "Step 2: Door Installation or Repair",
+          "Step 3: Hardware Installation and Adjustment",
+          "Step 4: Weather Sealing and Final Inspection"
+        ],
+        "benefits": [
+          "Enhance home security",
+          "Improve energy efficiency",
+          "Increase curb appeal",
+          "Protect your home from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of door is best for coastal environments like Virginia Beach?",
+            "answer": "Fiberglass doors are a great option for coastal environments because they are resistant to salt air corrosion and moisture damage. Steel doors are also a good choice, but they need to be properly coated to prevent rust."
+          },
+          {
+            "question": "How do I know if my door needs to be repaired or replaced?",
+            "answer": "If your door is difficult to open or close, has visible damage, or is letting in drafts, it may need to be repaired or replaced. We can assess your door and recommend the best course of action."
+          },
+          {
+            "question": "Do you offer a warranty on your door installations?",
+            "answer": "Yes, we offer a warranty on our door installations to ensure your satisfaction. The specific terms of the warranty will vary depending on the type of door and the installation services provided."
+          }
+        ]
+      },
+      {
+        "slug": "window-installation-and-repair",
+        "name": "Window Installation & Repair",
+        "shortDescription": "Improve your home's energy efficiency with our window services.",
+        "description": "Virginia Home Repair specializes in expert window installation and repair services, tailored to the unique needs of Virginia Beach homes. We understand the impact of windows on your home's energy efficiency, comfort, and aesthetic appeal. Whether you're looking to replace old, drafty windows with energy-efficient models, repair damaged windows, or install new windows as part of a renovation project, we have the expertise to deliver superior results.\n\nWe offer a wide selection of window types, including vinyl, wood, fiberglass, and aluminum, each with its own benefits in terms of energy efficiency, durability, and aesthetics. Our team will guide you in selecting the best windows for your home, considering factors like your budget, architectural style, and the specific challenges of the coastal climate. Our installation process is meticulous, ensuring proper sealing and insulation to minimize drafts and maximize energy savings. We also offer window repair services, including glass replacement, frame repair, and hardware replacement.\n\nGiven the potential for hurricanes and coastal storms in Virginia Beach, we can advise on impact-resistant windows that provide added protection. We also understand the importance of proper window placement and ventilation to prevent moisture buildup and mold growth. From simple repairs to complete window replacements, we're committed to enhancing the comfort, energy efficiency, and value of your home.",
+        "process": [
+          "Step 1: Consultation and Window Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Professional Installation",
+          "Step 4: Sealing, Insulation, and Cleanup"
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Increased home comfort",
+          "Enhanced curb appeal",
+          "Improved home security"
+        ],
+        "faq": [
+          {
+            "question": "What type of windows are best for energy efficiency?",
+            "answer": "Low-E windows with argon gas fill are highly energy-efficient. These windows have a special coating that reflects heat, helping to keep your home cooler in the summer and warmer in the winter."
+          },
+          {
+            "question": "How often should I replace my windows?",
+            "answer": "The lifespan of windows varies depending on the material and quality of the construction. However, most windows should be replaced every 15-20 years. If your windows are drafty, damaged, or difficult to operate, it may be time to replace them."
+          },
+          {
+            "question": "Do you offer a warranty on your window installations?",
+            "answer": "Yes, we offer a warranty on our window installations to ensure your satisfaction. The specific terms of the warranty will vary depending on the type of window and the installation services provided."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-molding",
+        "name": "Trim & Molding",
+        "shortDescription": "Add the perfect finishing touches to your home with custom trim work.",
+        "description": "Virginia Home Repair offers expert trim and molding installation services to add character and elegance to your Virginia Beach home. We understand that trim and molding are the finishing touches that can transform a room from ordinary to extraordinary. Whether you're looking to add crown molding to your living room, install baseboards in your bedrooms, or create custom trim details for your windows and doors, we have the expertise to bring your vision to life.\n\nWe work with a variety of trim and molding materials, including wood, MDF, and PVC. We can help you choose the best material for your needs, considering factors such as aesthetics, durability, and budget. Our installation process is meticulous, ensuring precise cuts, seamless joints, and a flawless finish. We also offer custom trim design services, allowing you to create unique and personalized trim details that reflect your individual style.\n\nGiven the potential for moisture damage in Virginia Beach homes, we can advise on trim materials that are resistant to rot and decay. We also understand the importance of proper ventilation to prevent moisture buildup behind trim and molding. From simple trim repairs to complete trim installations, we're committed to enhancing the beauty and value of your home.",
+        "process": [
+          "Step 1: Design Consultation and Material Selection",
+          "Step 2: Precise Measurements and Cutting",
+          "Step 3: Installation and Finishing",
+          "Step 4: Caulking and Painting"
+        ],
+        "benefits": [
+          "Adds character and elegance to your home",
+          "Increases property value",
+          "Protects walls and floors from damage",
+          "Creates a cohesive and polished look"
+        ],
+        "faq": [
+          {
+            "question": "What type of trim is best for a coastal home?",
+            "answer": "PVC trim is a great option for coastal homes because it is resistant to moisture, rot, and insect infestation. Wood trim can also be used, but it needs to be properly sealed and maintained to prevent damage."
+          },
+          {
+            "question": "How much does it cost to install trim and molding?",
+            "answer": "The cost of trim and molding installation depends on the type of material, the complexity of the design, and the size of the project. We'll provide you with a detailed quote after assessing your needs."
+          },
+          {
+            "question": "Do you offer painting services for trim and molding?",
+            "answer": "Yes, we offer painting services for trim and molding. We can match any paint color to ensure a seamless and professional finish."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Cabinets",
+        "text": "Virginia Home Repair did an amazing job with our kitchen cabinets! They helped us design custom cabinets that perfectly fit our space and style. The quality of the workmanship is outstanding, and the installation was seamless. We couldn't be happier!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after the winter, but Virginia Home Repair brought it back to life. They replaced several damaged boards and reinforced the railings. The work was done quickly and efficiently, and the price was very reasonable. I would definitely recommend them.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "We recently had Virginia Home Repair install a new front door, and we're thrilled with the results. The door is beautiful and secure, and the installation was flawless. The team was professional and courteous throughout the entire process. Thanks!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "John L.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Virginia Home Repair replaced all the windows in our house, and we've already noticed a difference in our energy bills. The new windows are energy-efficient and look great. The installation team was efficient and cleaned up everything afterwards. Highly recommend!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica T.",
+        "rating": 4,
+        "service": "Framing Services",
+        "text": "We hired Virginia Home Repair for the framing on our home addition. They did an excellent job, ensuring that everything was square, plumb, and structurally sound. The team was professional and communicative throughout the project.",
+        "date": "2024-05-02"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Trim and Molding",
+        "text": "Virginia Home Repair added beautiful trim and molding to our living room, and it completely transformed the space. The craftsmanship is impeccable, and the attention to detail is impressive. We're so happy with the results!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Virginia Beach Carpenter | Home Repair",
+        "description": "Expert carpentry services in Virginia Beach, VA. Custom cabinets, deck repair, framing, doors, windows, and more. Call us today!"
+      },
+      "about": {
+        "title": "About Virginia Home Repair | Virginia Beach",
+        "description": "Learn about Virginia Home Repair's commitment to quality carpentry in Virginia Beach. Local experts you can trust for home repairs."
+      },
+      "services": {
+        "title": "Carpentry Services | Virginia Home Repair",
+        "description": "Comprehensive carpentry services in Virginia Beach, VA. Custom cabinets, deck repair, framing, doors, windows, trim and molding."
+      },
+      "contact": {
+        "title": "Contact Virginia Home Repair | Virginia Beach",
+        "description": "Contact Virginia Home Repair for your carpentry needs in Virginia Beach. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Virginia Home Repair Reviews | Virginia Beach",
+        "description": "Read reviews for Virginia Home Repair in Virginia Beach. See what our satisfied customers are saying about our carpentry services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Virginia Home Repair",
+        "description": "Virginia Home Repair provides expert carpentry services in Virginia Beach and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "950+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Virginia Home Repair is proud to offer our expert carpentry services to the residents of Virginia Beach, VA. From oceanfront homes to inland neighborhoods, we provide quality craftsmanship and reliable repairs. We understand the unique challenges coastal living presents, and we're equipped to handle everything from weather damage restoration to custom woodworking projects. Our team is committed to exceeding your expectations and ensuring your home is in top condition.\n\nWhether you need a new deck built, kitchen cabinets installed, or general home repairs, Virginia Home Repair is here to help. We use only the highest quality materials and proven techniques to deliver lasting results. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee. We're dedicated to providing prompt, professional service and ensuring your complete peace of mind.",
+        "localContext": "Virginia Beach is a vibrant coastal city known for its beautiful beaches, thriving tourism industry, and strong military presence.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Virginia Home Repair extends its comprehensive carpentry services to Norfolk, VA. As a historic port city with a diverse architectural landscape, Norfolk presents unique carpentry needs. We're experienced in working on everything from historic homes to modern condos, providing tailored solutions to meet your specific requirements. Our team is dedicated to preserving the character of your home while ensuring its structural integrity.\n\nFrom custom trim work to structural repairs, Virginia Home Repair is your trusted partner in Norfolk. We understand the importance of quality craftsmanship and attention to detail. We're committed to providing prompt, reliable service and exceeding your expectations. Contact us today to schedule a consultation and experience the difference Virginia Home Repair can make.",
+        "localContext": "Norfolk is a major naval base and transportation hub with a rich history and a vibrant arts and culture scene.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Virginia Home Repair proudly serves the growing community of Chesapeake, VA. Whether you live in a newly developed neighborhood or a established community, we offer a full range of carpentry services to meet your needs. From home additions to custom woodworking, we're committed to delivering quality craftsmanship and exceptional customer service. We understand the importance of creating a comfortable and functional living space for you and your family.\n\nWe provide a wide array of carpentry services, including deck and patio construction, kitchen and bathroom remodeling, and custom built-ins. Virginia Home Repair is your reliable partner in Chesapeake. We're dedicated to providing prompt, professional service and ensuring your complete satisfaction.",
+        "localContext": "Chesapeake is a diverse city with a mix of urban and rural areas, offering a high quality of life for its residents.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Virginia Home Repair is pleased to offer our expert carpentry services to the residents of Suffolk, VA. As the largest city in Virginia by land area, Suffolk encompasses a variety of communities, from historic downtown to rural farmlands. We are experienced in handling a wide range of carpentry projects, from simple repairs to complex renovations. Our goal is to provide you with the highest quality workmanship and exceptional customer service.\n\nWe offer a comprehensive range of carpentry services, including custom cabinetry, flooring installation, and general home repairs. Virginia Home Repair is your trusted partner in Suffolk. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee. We're dedicated to providing prompt, reliable service and exceeding your expectations.",
+        "localContext": "Suffolk is a growing city with a strong agricultural heritage and a thriving business community.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Virginia Home Repair is proud to serve the historic city of Portsmouth, VA. Known for its rich maritime history and diverse architecture, Portsmouth offers unique carpentry challenges and opportunities. We are experienced in working on both historic and modern homes, providing tailored solutions to meet your specific needs. Our commitment to quality craftsmanship and attention to detail ensures that your home is in good hands.\n\nFrom restoration projects to new construction, Virginia Home Repair is your trusted partner in Portsmouth. We offer a wide range of carpentry services, including custom millwork, structural repairs, and general home maintenance. We are dedicated to providing prompt, professional service and exceeding your expectations. Contact us today to schedule a consultation and experience the difference Virginia Home Repair can make.",
+        "localContext": "Portsmouth is a historic seaport city with a vibrant downtown area, known for its naval history and charming architecture.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Virginia Home Repair extends its carpentry services to Newport News, VA, a city with a strong shipbuilding history. We understand the unique needs of homeowners in this area, and we're equipped to handle a variety of carpentry projects, from minor repairs to major renovations. Our team is committed to providing quality workmanship and exceptional customer service.\n\nWhether you need new windows installed, a deck built, or custom cabinetry, Virginia Home Repair is here to help. We use only the highest quality materials and proven techniques to deliver lasting results. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee. We're dedicated to providing prompt, professional service and ensuring your complete peace of mind.",
+        "localContext": "Newport News is a major shipbuilding center and a city with a rich history, offering a variety of cultural attractions and outdoor activities.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Williamsburg"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Virginia Home Repair is pleased to offer its carpentry services to the residents of Hampton, VA. As one of the oldest continuously inhabited English-speaking settlements in North America, Hampton boasts a unique blend of history and modern living. We're experienced in working on a variety of homes, from historic properties to contemporary residences, and we're committed to providing tailored solutions to meet your specific needs.\n\nFrom custom trim work to structural repairs, Virginia Home Repair is your trusted partner in Hampton. We understand the importance of quality craftsmanship and attention to detail. We're committed to providing prompt, reliable service and exceeding your expectations. Contact us today to schedule a consultation and experience the difference Virginia Home Repair can make.",
+        "localContext": "Hampton is a historic city with a strong aerospace industry and a beautiful waterfront, offering a variety of recreational and cultural opportunities.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Virginia Home Repair is happy to offer carpentry services to Poquoson, VA. As a smaller, close-knit community, Poquoson values quality and reliability, and we at Virginia Home Repair are dedicated to meeting those standards. We are ready to tackle your carpentry needs.\n\nFrom custom trim work to structural repairs, Virginia Home Repair is your trusted partner in Poquoson. We understand the importance of quality craftsmanship and attention to detail. We're committed to providing prompt, reliable service and exceeding your expectations. Contact us today to schedule a consultation and experience the difference Virginia Home Repair can make.",
+        "localContext": "Poquoson is a small city known for its strong sense of community and its location on the Chesapeake Bay.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Newport News"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinets": "/images/service-custom-cabinets.webp",
+      "deck-repair-and-installation": "/images/service-deck-repair-and-installation.webp",
+      "framing-services": "/images/service-framing-services.webp",
+      "door-installation-and-repair": "/images/service-door-installation-and-repair.webp",
+      "window-installation-and-repair": "/images/service-window-installation-and-repair.webp",
+      "trim-and-molding": "/images/service-trim-and-molding.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinets": {
+        "src": "/images/service-custom-cabinets.webp",
+        "srcset": "/images/service-custom-cabinets-400w.webp 400w, /images/service-custom-cabinets-800w.webp 800w, /images/service-custom-cabinets-1200w.webp 1200w, /images/service-custom-cabinets.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair-and-installation": {
+        "src": "/images/service-deck-repair-and-installation.webp",
+        "srcset": "/images/service-deck-repair-and-installation-400w.webp 400w, /images/service-deck-repair-and-installation-800w.webp 800w, /images/service-deck-repair-and-installation-1200w.webp 1200w, /images/service-deck-repair-and-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "framing-services": {
+        "src": "/images/service-framing-services.webp",
+        "srcset": "/images/service-framing-services-400w.webp 400w, /images/service-framing-services-800w.webp 800w, /images/service-framing-services-1200w.webp 1200w, /images/service-framing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-and-repair": {
+        "src": "/images/service-door-installation-and-repair.webp",
+        "srcset": "/images/service-door-installation-and-repair-400w.webp 400w, /images/service-door-installation-and-repair-800w.webp 800w, /images/service-door-installation-and-repair-1200w.webp 1200w, /images/service-door-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-installation-and-repair": {
+        "src": "/images/service-window-installation-and-repair.webp",
+        "srcset": "/images/service-window-installation-and-repair-400w.webp 400w, /images/service-window-installation-and-repair-800w.webp 800w, /images/service-window-installation-and-repair-1200w.webp 1200w, /images/service-window-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-molding": {
+        "src": "/images/service-trim-and-molding.webp",
+        "srcset": "/images/service-trim-and-molding-400w.webp 400w, /images/service-trim-and-molding-800w.webp 800w, /images/service-trim-and-molding-1200w.webp 1200w, /images/service-trim-and-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
